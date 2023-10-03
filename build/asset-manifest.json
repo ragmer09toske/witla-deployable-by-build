@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ac50a68b.css",
-    "main.js": "/static/js/main.f72f6184.js",
+    "main.js": "/static/js/main.9e90a416.js",
     "static/js/787.6d21ac34.chunk.js": "/static/js/787.6d21ac34.chunk.js",
     "static/media/nucleus-malesunyane.jpg": "/static/media/nucleus-malesunyane.0a388dca18eedf5fbee6.jpg",
     "static/media/msu.JPG": "/static/media/msu.5611e64c3e3c9431c8c9.JPG",
@@ -20,11 +20,11 @@
     "static/media/pricing-illustration.svg": "/static/media/pricing-illustration.9ed4fdab0f6fe95d6caa.svg",
     "index.html": "/index.html",
     "main.ac50a68b.css.map": "/static/css/main.ac50a68b.css.map",
-    "main.f72f6184.js.map": "/static/js/main.f72f6184.js.map",
+    "main.9e90a416.js.map": "/static/js/main.9e90a416.js.map",
     "787.6d21ac34.chunk.js.map": "/static/js/787.6d21ac34.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac50a68b.css",
-    "static/js/main.f72f6184.js"
+    "static/js/main.9e90a416.js"
   ]
 }
