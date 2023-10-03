@@ -1,25 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.ac50a68b.css",
-    "main.js": "/static/js/main.d75a7bd7.js",
+    "main.js": "/static/js/main.f72f6184.js",
     "static/js/787.6d21ac34.chunk.js": "/static/js/787.6d21ac34.chunk.js",
     "static/media/nucleus-malesunyane.jpg": "/static/media/nucleus-malesunyane.0a388dca18eedf5fbee6.jpg",
     "static/media/msu.JPG": "/static/media/msu.5611e64c3e3c9431c8c9.JPG",
     "static/media/lekhowa.png": "/static/media/lekhowa.5508e4adb46019a67c9c.png",
     "static/media/steakholders.png": "/static/media/steakholders.4ea92f3ea29677396e03.png",
     "static/media/Witla.png": "/static/media/Witla.e9b2e1c4651362377a7e.png",
+    "static/media/tp.jpg": "/static/media/tp.eebb40a328054e41d014.jpg",
     "static/media/exhibitions.jpg": "/static/media/exhibitions.85fbab24aeac2154145d.jpg",
+    "static/media/scenery.jpg": "/static/media/scenery.558bcfc8073c1b23016c.jpg",
     "static/media/kayplayers.jpeg": "/static/media/kayplayers.7935e0d96bfbe5efb262.jpeg",
+    "static/media/cosy.jpg": "/static/media/cosy.7555488758d598a88bcf.jpg",
     "static/media/room.jpg": "/static/media/room.f6490c085185da2cd2fe.jpg",
+    "static/media/salisha.jpg": "/static/media/salisha.b764ac6d0dfeb38a24bd.jpg",
     "static/media/logo_Typo.png": "/static/media/logo_Typo.821e6b03480fbe892556.png",
+    "static/media/violet.jpeg": "/static/media/violet.16285f7e82361519c35a.jpeg",
     "static/media/pricing-illustration.svg": "/static/media/pricing-illustration.9ed4fdab0f6fe95d6caa.svg",
     "index.html": "/index.html",
     "main.ac50a68b.css.map": "/static/css/main.ac50a68b.css.map",
-    "main.d75a7bd7.js.map": "/static/js/main.d75a7bd7.js.map",
+    "main.f72f6184.js.map": "/static/js/main.f72f6184.js.map",
     "787.6d21ac34.chunk.js.map": "/static/js/787.6d21ac34.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac50a68b.css",
-    "static/js/main.d75a7bd7.js"
+    "static/js/main.f72f6184.js"
   ]
 }
