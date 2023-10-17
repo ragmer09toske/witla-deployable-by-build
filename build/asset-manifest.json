@@ -1,9 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac50a68b.css",
-    "main.js": "/static/js/main.6306e8ef.js",
+    "main.css": "/static/css/main.a9794e79.css",
+    "main.js": "/static/js/main.b1de7b58.js",
     "static/js/787.6d21ac34.chunk.js": "/static/js/787.6d21ac34.chunk.js",
+    "static/media/2B6A4802_edited.jpg": "/static/media/2B6A4802_edited.fe263db167eda433a2dc.jpg",
     "static/media/nucleus-afriski.jpg": "/static/media/nucleus-afriski.2be04d403f70c4f9a3a7.jpg",
+    "static/media/2B6A4764_edited.jpg": "/static/media/2B6A4764_edited.e04a82aa7d8a73aee9cf.jpg",
+    "static/media/2B6A4697_edited.jpg": "/static/media/2B6A4697_edited.234e1cafb5f88152fbdd.jpg",
+    "static/media/2B6A4648_edited.jpg": "/static/media/2B6A4648_edited.11882568de8280e27cce.jpg",
+    "static/media/2B6A4637_edited.jpg": "/static/media/2B6A4637_edited.7f76f6e02eb4c5ad12e0.jpg",
+    "static/media/Mohale Dam .jpg": "/static/media/Mohale Dam .ca395b51bd5a111479d9.jpg",
     "static/media/msu.JPG": "/static/media/msu.5611e64c3e3c9431c8c9.JPG",
     "static/media/lekhowa.png": "/static/media/lekhowa.5508e4adb46019a67c9c.png",
     "static/media/pere.jpeg": "/static/media/pere.dee518545634dc6b365e.jpeg",
@@ -14,6 +20,8 @@
     "static/media/landScape.jpeg": "/static/media/landScape.89f4eaca1a381a7c4de2.jpeg",
     "static/media/Ndlamo.jpeg": "/static/media/Ndlamo.8c50036450eff07a9480.jpeg",
     "static/media/dam.jpeg": "/static/media/dam.7bd396365294d52a3daa.jpeg",
+    "static/media/B DSC00740.jpg": "/static/media/B DSC00740.7248aee0af05d92fd164.jpg",
+    "static/media/G997 SaniPassSunrise2001.jpg": "/static/media/G997 SaniPassSunrise2001.ea5dbb6bd3c171c783a1.jpg",
     "static/media/steakholders.png": "/static/media/steakholders.4ea92f3ea29677396e03.png",
     "static/media/river.jpeg": "/static/media/river.a9865047b321935a8b70.jpeg",
     "static/media/Witla.png": "/static/media/Witla.e9b2e1c4651362377a7e.png",
@@ -31,13 +39,17 @@
     "static/media/logo_Typo.png": "/static/media/logo_Typo.821e6b03480fbe892556.png",
     "static/media/violet.jpeg": "/static/media/violet.16285f7e82361519c35a.jpeg",
     "static/media/pricing-illustration.svg": "/static/media/pricing-illustration.9ed4fdab0f6fe95d6caa.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.ac50a68b.css.map": "/static/css/main.ac50a68b.css.map",
-    "main.6306e8ef.js.map": "/static/js/main.6306e8ef.js.map",
+    "main.a9794e79.css.map": "/static/css/main.a9794e79.css.map",
+    "main.b1de7b58.js.map": "/static/js/main.b1de7b58.js.map",
     "787.6d21ac34.chunk.js.map": "/static/js/787.6d21ac34.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac50a68b.css",
-    "static/js/main.6306e8ef.js"
+    "static/css/main.a9794e79.css",
+    "static/js/main.b1de7b58.js"
   ]
 }
