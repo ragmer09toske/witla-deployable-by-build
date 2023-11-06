@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a9794e79.css",
-    "main.js": "/static/js/main.b1de7b58.js",
+    "main.css": "/static/css/main.8c1e5726.css",
+    "main.js": "/static/js/main.fe929e46.js",
     "static/js/787.6d21ac34.chunk.js": "/static/js/787.6d21ac34.chunk.js",
     "static/media/2B6A4802_edited.jpg": "/static/media/2B6A4802_edited.fe263db167eda433a2dc.jpg",
     "static/media/nucleus-afriski.jpg": "/static/media/nucleus-afriski.2be04d403f70c4f9a3a7.jpg",
@@ -12,8 +12,10 @@
     "static/media/Mohale Dam .jpg": "/static/media/Mohale Dam .ca395b51bd5a111479d9.jpg",
     "static/media/msu.JPG": "/static/media/msu.5611e64c3e3c9431c8c9.JPG",
     "static/media/lekhowa.png": "/static/media/lekhowa.5508e4adb46019a67c9c.png",
+    "static/media/women.jpeg": "/static/media/women.d2e30991c4f0ae826ba4.jpeg",
     "static/media/pere.jpeg": "/static/media/pere.dee518545634dc6b365e.jpeg",
     "static/media/traditional.jpeg": "/static/media/traditional.772ffe806e228811a8b6.jpeg",
+    "static/media/tours.jpeg": "/static/media/tours.92a77614a1b7c8dbb5cc.jpeg",
     "static/media/houses.jpeg": "/static/media/houses.7c010c88dd8e9ab2edea.jpeg",
     "static/media/mokhibo.jpeg": "/static/media/mokhibo.f7f544f53bf6a92a890a.jpeg",
     "static/media/melamu.jpeg": "/static/media/melamu.afd42c723de5b759e57e.jpeg",
@@ -21,11 +23,11 @@
     "static/media/Ndlamo.jpeg": "/static/media/Ndlamo.8c50036450eff07a9480.jpeg",
     "static/media/dam.jpeg": "/static/media/dam.7bd396365294d52a3daa.jpeg",
     "static/media/B DSC00740.jpg": "/static/media/B DSC00740.7248aee0af05d92fd164.jpg",
+    "static/media/galadinner.jpeg": "/static/media/galadinner.bd583f719228ae8988fc.jpeg",
     "static/media/G997 SaniPassSunrise2001.jpg": "/static/media/G997 SaniPassSunrise2001.ea5dbb6bd3c171c783a1.jpg",
     "static/media/steakholders.png": "/static/media/steakholders.4ea92f3ea29677396e03.png",
     "static/media/river.jpeg": "/static/media/river.a9865047b321935a8b70.jpeg",
     "static/media/Witla.png": "/static/media/Witla.e9b2e1c4651362377a7e.png",
-    "static/media/tp.jpg": "/static/media/tp.eebb40a328054e41d014.jpg",
     "static/media/exhibitions.jpg": "/static/media/exhibitions.85fbab24aeac2154145d.jpg",
     "static/media/KomeCave.jpg": "/static/media/KomeCave.7fad8c6882bf7905cf89.jpg",
     "static/media/scenery.jpg": "/static/media/scenery.558bcfc8073c1b23016c.jpg",
@@ -36,7 +38,7 @@
     "static/media/mohale.jpeg": "/static/media/mohale.4a9cb0d6b54d1a211bdf.jpeg",
     "static/media/salisha.jpg": "/static/media/salisha.b764ac6d0dfeb38a24bd.jpg",
     "static/media/two.jpeg": "/static/media/two.c96d01376f0bca680955.jpeg",
-    "static/media/logo_Typo.png": "/static/media/logo_Typo.821e6b03480fbe892556.png",
+    "static/media/qr.jpeg": "/static/media/qr.e16a76b1b3f9e95dca86.jpeg",
     "static/media/violet.jpeg": "/static/media/violet.16285f7e82361519c35a.jpeg",
     "static/media/pricing-illustration.svg": "/static/media/pricing-illustration.9ed4fdab0f6fe95d6caa.svg",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -44,12 +46,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.a9794e79.css.map": "/static/css/main.a9794e79.css.map",
-    "main.b1de7b58.js.map": "/static/js/main.b1de7b58.js.map",
+    "main.8c1e5726.css.map": "/static/css/main.8c1e5726.css.map",
+    "main.fe929e46.js.map": "/static/js/main.fe929e46.js.map",
     "787.6d21ac34.chunk.js.map": "/static/js/787.6d21ac34.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9794e79.css",
-    "static/js/main.b1de7b58.js"
+    "static/css/main.8c1e5726.css",
+    "static/js/main.fe929e46.js"
   ]
 }
