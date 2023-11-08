@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c1e5726.css",
-    "main.js": "/static/js/main.fe929e46.js",
+    "main.css": "/static/css/main.8c6b434c.css",
+    "main.js": "/static/js/main.ffc37fec.js",
     "static/js/787.6d21ac34.chunk.js": "/static/js/787.6d21ac34.chunk.js",
     "static/media/2B6A4802_edited.jpg": "/static/media/2B6A4802_edited.fe263db167eda433a2dc.jpg",
     "static/media/nucleus-afriski.jpg": "/static/media/nucleus-afriski.2be04d403f70c4f9a3a7.jpg",
@@ -30,28 +30,23 @@
     "static/media/Witla.png": "/static/media/Witla.e9b2e1c4651362377a7e.png",
     "static/media/exhibitions.jpg": "/static/media/exhibitions.85fbab24aeac2154145d.jpg",
     "static/media/KomeCave.jpg": "/static/media/KomeCave.7fad8c6882bf7905cf89.jpg",
-    "static/media/scenery.jpg": "/static/media/scenery.558bcfc8073c1b23016c.jpg",
     "static/media/sunset.jpeg": "/static/media/sunset.13cd8802ab6628c9d705.jpeg",
     "static/media/kayplayers.jpeg": "/static/media/kayplayers.7935e0d96bfbe5efb262.jpeg",
-    "static/media/cosy.jpg": "/static/media/cosy.7555488758d598a88bcf.jpg",
     "static/media/room.jpg": "/static/media/room.f6490c085185da2cd2fe.jpg",
     "static/media/mohale.jpeg": "/static/media/mohale.4a9cb0d6b54d1a211bdf.jpeg",
-    "static/media/salisha.jpg": "/static/media/salisha.b764ac6d0dfeb38a24bd.jpg",
     "static/media/two.jpeg": "/static/media/two.c96d01376f0bca680955.jpeg",
     "static/media/qr.jpeg": "/static/media/qr.e16a76b1b3f9e95dca86.jpeg",
-    "static/media/violet.jpeg": "/static/media/violet.16285f7e82361519c35a.jpeg",
-    "static/media/pricing-illustration.svg": "/static/media/pricing-illustration.9ed4fdab0f6fe95d6caa.svg",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.8c1e5726.css.map": "/static/css/main.8c1e5726.css.map",
-    "main.fe929e46.js.map": "/static/js/main.fe929e46.js.map",
+    "main.8c6b434c.css.map": "/static/css/main.8c6b434c.css.map",
+    "main.ffc37fec.js.map": "/static/js/main.ffc37fec.js.map",
     "787.6d21ac34.chunk.js.map": "/static/js/787.6d21ac34.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c1e5726.css",
-    "static/js/main.fe929e46.js"
+    "static/css/main.8c6b434c.css",
+    "static/js/main.ffc37fec.js"
   ]
 }
