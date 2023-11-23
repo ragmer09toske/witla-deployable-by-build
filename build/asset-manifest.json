@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c6b434c.css",
-    "main.js": "/static/js/main.c1258182.js",
+    "main.css": "/static/css/main.73871959.css",
+    "main.js": "/static/js/main.bca28179.js",
     "static/js/787.6d21ac34.chunk.js": "/static/js/787.6d21ac34.chunk.js",
     "static/media/2B6A4802_edited.jpg": "/static/media/2B6A4802_edited.fe263db167eda433a2dc.jpg",
     "static/media/nucleus-afriski.jpg": "/static/media/nucleus-afriski.2be04d403f70c4f9a3a7.jpg",
@@ -24,14 +24,19 @@
     "static/media/Ndlamo.jpeg": "/static/media/Ndlamo.8c50036450eff07a9480.jpeg",
     "static/media/dam.jpeg": "/static/media/dam.7bd396365294d52a3daa.jpeg",
     "static/media/B DSC00740.jpg": "/static/media/B DSC00740.7248aee0af05d92fd164.jpg",
+    "static/media/pk5.jpeg": "/static/media/pk5.deb23da7bfafe2655e03.jpeg",
+    "static/media/pk1.jpeg": "/static/media/pk1.926d50e486134e5b4223.jpeg",
     "static/media/galadinner.jpeg": "/static/media/galadinner.bd583f719228ae8988fc.jpeg",
     "static/media/G997 SaniPassSunrise2001.jpg": "/static/media/G997 SaniPassSunrise2001.ea5dbb6bd3c171c783a1.jpg",
     "static/media/steakholders.png": "/static/media/steakholders.4ea92f3ea29677396e03.png",
+    "static/media/pk3.jpeg": "/static/media/pk3.5e5386a0c8c10ff32933.jpeg",
     "static/media/river.jpeg": "/static/media/river.a9865047b321935a8b70.jpeg",
     "static/media/Witla.png": "/static/media/Witla.e9b2e1c4651362377a7e.png",
     "static/media/exhibitions.jpg": "/static/media/exhibitions.85fbab24aeac2154145d.jpg",
+    "static/media/pk2.jpeg": "/static/media/pk2.598ef62b97c980f7d26a.jpeg",
     "static/media/KomeCave.jpg": "/static/media/KomeCave.7fad8c6882bf7905cf89.jpg",
     "static/media/sunset.jpeg": "/static/media/sunset.13cd8802ab6628c9d705.jpeg",
+    "static/media/pk4.jpeg": "/static/media/pk4.bec28b389e4d65b07544.jpeg",
     "static/media/room.jpg": "/static/media/room.f6490c085185da2cd2fe.jpg",
     "static/media/mohale.jpeg": "/static/media/mohale.4a9cb0d6b54d1a211bdf.jpeg",
     "static/media/two.jpeg": "/static/media/two.c96d01376f0bca680955.jpeg",
@@ -41,12 +46,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.8c6b434c.css.map": "/static/css/main.8c6b434c.css.map",
-    "main.c1258182.js.map": "/static/js/main.c1258182.js.map",
+    "main.73871959.css.map": "/static/css/main.73871959.css.map",
+    "main.bca28179.js.map": "/static/js/main.bca28179.js.map",
     "787.6d21ac34.chunk.js.map": "/static/js/787.6d21ac34.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c6b434c.css",
-    "static/js/main.c1258182.js"
+    "static/css/main.73871959.css",
+    "static/js/main.bca28179.js"
   ]
 }
